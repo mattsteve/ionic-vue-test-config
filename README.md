@@ -1,4 +1,4 @@
-# mhtkmobile-vue
+# ionic-vue-test-config
 
 ```
 npm install
